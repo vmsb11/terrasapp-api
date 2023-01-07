@@ -27,7 +27,7 @@ npm install
 
 ## Configuração do banco de dados
 
-1) Importe o arquivo clickideia-vini.sql no banco de dados MySQL
+1) Importe o arquivo terrasapp-vini.sql no banco de dados MySQL
 2) Abra o arquivo diretorio_do_projeto/server/config/config.json
 3) Informe nas propriedades username, host, database e password as informações do banco de dados importado (developement, test e production)
 4) Salve o arquivo
