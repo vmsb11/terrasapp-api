@@ -10,19 +10,10 @@ Clone o repositório e instale as dependências.
 
 ```bash
 git clone https://github.com/vmsb11/terrasapp-api.git
-cd clickideia-api
-npm install
-```
-
-## Configuração
-
-Clone o repositório e instale as dependências.
-
-```bash
-git clone https://github.com/vmsb11/terrasapp-api.git
 cd terrasapp-api
 npm install
 ```
+
 
 
 ## Configuração do banco de dados
